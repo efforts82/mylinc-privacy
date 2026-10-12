@@ -1,0 +1,7 @@
+.privacy-standalone{margin:0;background:#191c21;color:#e7eaf0;font-family:굴림체,GulimChe,굴림,Gulim,sans-serif}
+.privacy-standalone main{max-width:850px;margin:auto;padding:28px 20px}
+.privacy-content{font-size:14px;line-height:1.85;overflow-wrap:anywhere;text-align:left}
+.privacy-content h1{font-size:22px}.privacy-content h2{font-size:17px;margin:24px 0 8px}.privacy-content p{margin:10px 0}.privacy-content ul{padding-left:22px}.privacy-content li{margin:8px 0}.privacy-content a{color:#89bcf1}.privacy-date{opacity:.8}
+#privacy-dialog{width:min(860px,calc(100vw - 24px));max-height:calc(100dvh - 32px);overflow:auto;color:var(--comp-text,#e7eaf0)}
+#privacy-dialog .privacy-content>h1{display:none}
+#privacy-dialog .companion-dialog-heading{position:relative;gap:12px}
